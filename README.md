@@ -42,3 +42,9 @@ El proyecto se divide en cinco fases:
 
 ## 📁 Estructura de Carpetas
 
+spacex-capstone/ │ ├── fase1_ingenieria_datos/ │ ├── fase1_ingenieria_datos.ipynb │ └── spacex_launches_clean.csv │ ├── fase2_analisis_exploratorio/ ├── fase3_visualizacion_interactiva/ ├── fase4_modelado_predictivo/ ├── fase5_presentacion/ └── README.md
+
+## 📌 Estado Actual
+
+✅ Fase 1 completada: datos obtenidos, filtrados y guardados en formato CSV.  
+🔜 Próximo paso: análisis exploratorio de datos (EDA).
